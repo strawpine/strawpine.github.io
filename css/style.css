@@ -141,11 +141,13 @@ body {
 }
 
 .ml2 {
+    position: relative;
     font-weight: 900;
     font-size: 1.6em;
 }
 
 .ml2 .letter {
+    position: absolute;
     display: inline-block;
 }
 
