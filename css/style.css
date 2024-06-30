@@ -142,12 +142,10 @@ body {
 
 .ml2 {
     font-weight: 900;
-    font-size: 1.6em;
+    font-size: 2em;
 }
 
 .ml2 .letter {
-    position: absolute;
-    margin: auto;
     display: inline-block;
 }
 
